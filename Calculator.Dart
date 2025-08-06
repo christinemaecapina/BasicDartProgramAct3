@@ -1,6 +1,6 @@
 void main() {
-  double num1 = 20;
-  double num2 = 2; // You can change this 
+  double num1 = 10;
+  double num2 = 0; // You can change this 
 
   double sum = num1 + num2;
   double difference = num1 - num2;
